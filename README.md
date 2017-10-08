@@ -41,5 +41,3 @@ Available commands (assumes httpie - https://github.com/jkbrzt/httpie):
   http http://localhost:8080/parser-enforce?jwt=<jwt>
 	Parse passed in JWT enforcing the 'iss' registered claim and the 'hasMotorcycle' custom claim
 ```
-
-The Baeldung post that compliments this repo can be found [here](http://www.baeldung.com/)
